@@ -21,7 +21,7 @@
 
 #### Ответ:
 
-![Задание 1]()
+![Задание 1](https://github.com/AndreyFilon/DB-2/blob/main/memcached.jpg)
 
 ---
 
