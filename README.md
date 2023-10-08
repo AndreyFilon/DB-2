@@ -20,7 +20,7 @@
 
 #### Ответ:
 
-![Задание 1](https://github.com/AndreyFilon/DB-2/blob/main/memcached.jpg)
+![Задание 2](https://github.com/AndreyFilon/DB-2/blob/main/memcached.jpg)
 ---
 
 ### Задание 3 Удаление по TTL в Memcached
@@ -30,7 +30,7 @@
 
 #### Ответ:
 
-![Задание2](https://github.com/AndreyFilon/DB-2/blob/main/key.jpg)
+![Задание 3](https://github.com/AndreyFilon/DB-2/blob/main/key.jpg)
 
 ---
 
@@ -41,5 +41,5 @@
 
 #### Ответ:
 
-![Задание3]()
+![Задание4]()
  ---
